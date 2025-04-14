@@ -9,8 +9,7 @@ This repository contains a Python script that converts text from a file into a v
 - [Installation](#installation)
 - [Usage](#usage)
 - [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
+- [Output](#Output)
 
 ## Features
 
