@@ -66,10 +66,8 @@ pip install nltk sentence-transformers numpy pymilvus
 2. **Run the script**:
 
    ```bash
-   python your_script_name.py
+   python vdb_gen.py
    ```
-
-   Replace `vdb_gen.py` with the name of your Python script.
 
 3. **Check the logs**: The script generates a log file in the `logs` directory. You can check this file for information about the process, including any errors that may have occurred.
 
